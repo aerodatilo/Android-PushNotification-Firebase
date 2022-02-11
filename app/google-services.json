@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072688861223",
+    "project_id": "pushnotification-b0263",
+    "storage_bucket": "pushnotification-b0263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072688861223:android:e21ce87bd7e3dcfba17e02",
+        "android_client_info": {
+          "package_name": "com.hybot.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072688861223-qm4akmsf1hsd0tvcq0mhotsp20e9imbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxC-Awg0Nstj4YcU5UCP2S66UflxA6oOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072688861223-qm4akmsf1hsd0tvcq0mhotsp20e9imbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
